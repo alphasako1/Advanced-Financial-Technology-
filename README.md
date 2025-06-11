@@ -1,2 +1,2 @@
 # Advanced-Financial-Technology-
-Fintech project analysing financial time series using python.
+Fintech project analysing financial time series data using python.
